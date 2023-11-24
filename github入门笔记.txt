@@ -1,4 +1,0 @@
-Repository的意思是仓库，也就是我创建的储存库
-star类似于收藏（点赞）按钮
-pull request是我访问并修改一个Repository的请求
-Fork有“叉子”的意思，也就是从原仓库复制建一个我自己的分支
